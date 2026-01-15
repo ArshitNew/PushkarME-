@@ -1,2 +1,21 @@
 # PushkarME-
-Computer Science student | Learning programming by building small projects
+## Hi, I'm Pushkar 👋
+
+🎓 Computer Science student  
+💻 Learning programming & building projects  
+🚀 Interested in AI tools, web dev & automation  
+
+### 🛠 Skills (learning)
+- Python
+- HTML, CSS
+- Git & GitHub
+- Basics of AI tools
+
+### 📌 What I'm working on
+- Small Python projects
+- Improving problem-solving
+- Building consistency on GitHub
+
+### 📫 Connect with me
+- Mail: pushkarsrivastava8423@gmail.com
+
