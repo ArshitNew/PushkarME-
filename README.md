@@ -1,7 +1,7 @@
 # PushkarME-
 ## Hi, I'm Pushkar 👋
 
-🎓 Computer Science student  
+🎓 University of delhi B.sc Computer Science student  
 💻 Learning programming & building projects  
 🚀 Interested in AI tools, web dev & automation  
 
